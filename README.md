@@ -8,10 +8,10 @@
 - 🎬 Huge horror movie fan 🍿  
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham4349&show_icons=true&theme=radical)  
 
 ### 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shub4349)  
 
 
 <!--

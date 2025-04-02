@@ -1,30 +1,31 @@
-## Hi there 👋 I'm Shubham 
+<h1 align="center">Hi there 👋, I'm Shubham!</h1>
+<h3 align="center">💻 Frontend Developer | 🚀 Building Talk-Trek</h3>
 
-💻 Frontend Developer | 🚀 Building Talk-Trek  
+---
 
 ### 🌟 About Me  
-- 🎯 Focused on mastering React.js & frontend dev.  
-- 🛠️ Tech Stack: React, Tailwind, Express, MongoDB  
-- 🎬 Huge horror movie fan 🍿  
+- 🎯 Focused on **mastering React.js** & frontend development.  
+- 🛠️ **Tech Stack:** React, Tailwind, Express, MongoDB  
+- 🎬 Huge **horror movie fan** 🍿 (Got recommendations? Let's talk!)  
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham4349&show_icons=true&theme=radical)  
+---
 
-### 📫 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/shub4349)  
+### 🚀 My GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham4349&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4349&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
 
-<!--
-**shubham4349/shubham4349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/shubham4349">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">✨ "Code, Create, Conquer!" ✨</p>

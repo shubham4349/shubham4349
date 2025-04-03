@@ -41,8 +41,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham4349&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
-## 📊 GitHub Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+## 📊 GitHub Language Stats
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubham4349&theme=github_dark)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shubham4349&theme=github_dark)
+
 
 
 ---
